@@ -1,0 +1,4 @@
+in_zip: 
+  hippunfold: /home/ROBARTS/alik/graham/ext-bids/developing_human_connectome/deriv/hippunfold_v1.2.1_synthseg_dHCP_neonatal.zip
+
+manual_seg: /home/ROBARTS/alik/graham/ext-bids/developing_human_connectome/deriv/manual_segmentations_/sub-{subject}_hemi-{hemi}_{rater}.nii.gz

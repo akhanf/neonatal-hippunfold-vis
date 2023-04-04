@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "vis-hipp"
+version = "0.1.0"
+description = ""
+authors = ["Ali Khan <alik@robarts.ca>"]
+readme = "README.md"
+packages = [{include = "vis_hipp"}]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+snakebids = "^0.7.2"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
